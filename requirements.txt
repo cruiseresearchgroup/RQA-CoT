@@ -1,0 +1,10 @@
+torch
+transformers
+scipy
+pandas
+numpy
+antropy
+nolds
+scikit-learn
+seaborn
+tqdm
