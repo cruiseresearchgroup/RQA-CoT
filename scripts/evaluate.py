@@ -22,15 +22,15 @@ import nolds
 
 # 1. Data Import
 DATA_FILES = {
-    "2x3": "data/2x3_sampling_rqa_metrics_output.csv",
-    "2x5": "data/2x5_fixed_sampling_rqa_metrics_output.csv",
-    "3x3": "data/3x3_sampling_rqa_metrics_output.csv",
-    "4x4": "data/4x4_sampling_rqa_metrics_output.csv",
-    "4x3": "data/4x3_sampling_rqa_metrics_output.csv",
-    "5x2": "data/5x2_sampling_rqa_metrics_output.csv",
-    "3x4": "data/3x4_sampling_rqa_metrics_output.csv",
-    "3x2": "data/3x2_sampling_rqa_metrics_output.csv",
-    "2x4": "data/2x4_sampling_rqa_metrics_output.csv",
+    "2x3": "r_data/2x3_sampling_rqa_metrics_output.csv",
+    "2x5": "r_data/2x5_fixed_sampling_rqa_metrics_output.csv",
+    "3x3": "r_data/3x3_sampling_rqa_metrics_output.csv",
+    "4x4": "r_data/4x4_sampling_rqa_metrics_output.csv",
+    "4x3": "r_data/4x3_sampling_rqa_metrics_output.csv",
+    "5x2": "r_data/5x2_sampling_rqa_metrics_output.csv",
+    "3x4": "r_data/3x4_sampling_rqa_metrics_output.csv",
+    "3x2": "r_data/3x2_sampling_rqa_metrics_output.csv",
+    "2x4": "r_data/2x4_sampling_rqa_metrics_output.csv",
 }
 N_SPLITS = 8 # K for GroupKFold
 RANDOM_STATE = 42
