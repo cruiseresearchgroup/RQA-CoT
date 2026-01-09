@@ -7,7 +7,8 @@ Our research demonstrates that temporal RQA signals (like Determinism and Lamina
 
 <img width="1538" height="1182" alt="image" src="https://github.com/user-attachments/assets/9685e9dd-6a40-4705-86b2-3a87702bf8eb" />
 
-<img width="4096" height="701" alt="image" src="https://github.com/user-attachments/assets/950d7f21-e72b-46b0-b94a-ca93132f4435" />
+<img width="4096" h<img width="633" height="539" alt="Screenshot 2026-01-09 at 11 15 17 am" src="https://github.com/user-attachments/assets/ccc546cf-a20e-4b12-a830-ddf21dcbc776" />
+eight="701" alt="image" src="https://github.com/user-attachments/assets/950d7f21-e72b-46b0-b94a-ca93132f4435" />
 
 ---
 
