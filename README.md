@@ -70,14 +70,3 @@ Aggregate the metrics from all complexity levels. This script engineers temporal
 python evaluate_results.py
 ```
 
----
-
-## Citation
-```bibtex
-@article{2025mindblurting,
-  title={Is my model "mind blurting"? Interpreting the dynamics of reasoning tokens with RQA},
-  author={...},
-  journal={arXiv preprint...},
-  year={2025}
-}
-```
