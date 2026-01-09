@@ -5,7 +5,10 @@ This repository contains the official implementation for analyzing Large Reasoni
 
 Our research demonstrates that temporal RQA signals (like Determinism and Laminarity) provide a high-resolution view of model "stalling" and "overthinking," significantly outperforming token length in predicting task complexity and accuracy.
 
-<img width="1230" height="966" alt="image" src="https://github.com/user-attachments/assets/3e9bf84e-f5bc-40a6-954a-6aec5f472415" />
+
+<img width="611" height="384" alt="Screenshot 2026-01-09 at 11 16 55 am" src="https://github.com/user-attachments/assets/3f6bde8d-a5c7-49e1-b11b-ed5ea91e2f32" />
+
+<img width="630" height="147" alt="Screenshot 2026-01-09 at 11 17 23 am" src="https://github.com/user-attachments/assets/991bf3f7-178f-4c2b-bbd8-e7b1598bb0b8" />
 
 
 ---
