@@ -3,6 +3,10 @@
 
 This repository contains the official implementation for analyzing Large Reasoning Models (LRMs) through the lens of dynamical systems. We propose **Recurrence Quantification Analysis (RQA)** as a non-textual framework to interpret Chain-of-Thought (CoT) processes by analyzing the latent trajectories of hidden states.
 
+Test-time compute is central to large reasoning models, yet analysing their reasoning behaviour through generated text is increasingly impractical and unreliable. Response length is often used as a brute proxy for reasoning effort, but this metric fails to capture the dynamics and effectiveness of the Chain of Thoughts (CoT) or the generated tokens. We propose Recurrence Quantification Analysis (RQA) as a non-textual alternative for analysing model's reasoning chains at test time. By treating token generation as a dynamical system, we extract hidden embeddings at each generation step and apply RQA to the resulting trajectories. RQA metrics, including Determinism and Laminarity, quantify patterns of repetition and stalling in the model's latent representations. Analysing 3,600 generation traces from DeepSeek-R1-Distill, we show that RQA captures signals not reflected by response length, but also substantially improves prediction of task complexity by 8\%. These results help establish RQA as a principled tool for studying the latent token generation dynamics of test-time scaling in reasoning models.
+
+https://arxiv.org/abs/2602.06266
+
 Our research demonstrates that temporal RQA signals (like Determinism and Laminarity) provide a high-resolution view of model "stalling" and "overthinking," significantly outperforming token length in predicting task complexity and accuracy.
 
 
